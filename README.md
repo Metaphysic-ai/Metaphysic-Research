@@ -3,7 +3,7 @@ This repositary is the home of Metaphysic Research.
 
 Chair: Prof. Hany Farid 
 
-Secretary: Beni Issembert
+Secretary: Beni Beeri Issembert
 
 Members:
 * Prof. Hany Farid - Berkeley University of California
